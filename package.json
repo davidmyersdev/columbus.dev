@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "app:default": "pnpm --filter ./apps/default",
+    "dev": "pnpm app:default dev"
+  }
+}
