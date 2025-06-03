@@ -1,0 +1,5057 @@
+{
+  "data": {
+    "topicCategories": {
+      "__typename": "TopicCategoryConnection",
+      "edges": [
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NTIx",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "521",
+            "color": "#C57AA2",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "1502",
+              "description": "Meet other local art enthusiasts, join a Meetup!",
+              "name": "Art",
+              "urlkey": "art"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/art-culture.jpg",
+            "name": "Art & Culture",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjQxNDc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "24147",
+                    "description": null,
+                    "name": "3D Artists",
+                    "urlkey": "3d-artists"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjI2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "226",
+                    "description": "Meet others in your local area interested in Acting on all levels.",
+                    "name": "Acting",
+                    "urlkey": "acting"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTczNw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1737",
+                    "description": "Meet other local Architects to discuss all aspects of Architecture.  Talk about finished/unfinished projects, good/bad design, and where to take form, space, and order next!",
+                    "name": "Architecture",
+                    "urlkey": "architecture"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUwMg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1502",
+                    "description": "Meet other local art enthusiasts, join a Meetup!",
+                    "name": "Art",
+                    "urlkey": "art"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDI2ODky",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "426892",
+                    "description": null,
+                    "name": "Art Exhibit",
+                    "urlkey": "art-exhibition-tours"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjMwMjc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "23027",
+                    "description": null,
+                    "name": "Art Galleries",
+                    "urlkey": "art-galleries"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTEyMjU2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "112256",
+                    "description": null,
+                    "name": "Art Museums",
+                    "urlkey": "art-museums"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjY1Njc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "26567",
+                    "description": null,
+                    "name": "Art Walks and Tours",
+                    "urlkey": "art-walks-and-tours"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTI0",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "924",
+                    "description": "Meet other local readers and followers of The Artist's Way, by Julia Cameron.",
+                    "name": "The Artist's Way",
+                    "urlkey": "artistsway"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA1NzQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10574",
+                    "description": "Meet other people interesting in arts & entertainment!",
+                    "name": "Arts & Entertainment",
+                    "urlkey": "arts"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTY1NzM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16573",
+                    "description": "Meet local artists: gather to share tips and ideas, to discuss about your art, and to meet new people like you!",
+                    "name": "Artists",
+                    "urlkey": "boston-artists"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjk1MjY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "29526",
+                    "description": null,
+                    "name": "Collaboration Between Creative Minds",
+                    "urlkey": "collaboration-between-creative-minds"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzYyMjk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "36229",
+                    "description": "Meet other local people interested in creativity: gather to network, share ideas and get advice!",
+                    "name": "Creativity",
+                    "urlkey": "creative"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA0NDc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10447",
+                    "description": "Meet with others in your local area who are interested in a Creative Circle.  Join a group to share various types of creativity and make new friends!",
+                    "name": "Creative Circle",
+                    "urlkey": "creativecircle"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM4ODQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "23884",
+                    "description": null,
+                    "name": "Cultural Activities",
+                    "urlkey": "cultural-activities"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTEzOA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1138",
+                    "description": "Based on the book, \"The Cultural Creatives: How 50 Million People are Changing the World\", Meetup with other local Cultural Creatives to network and get more involved in positive social change.",
+                    "name": "Cultural Creatives",
+                    "urlkey": "culturalcreatives"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjEwMjI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21022",
+                    "description": null,
+                    "name": "Drama",
+                    "urlkey": "drama"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA4MDU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20805",
+                    "description": null,
+                    "name": "Drawing",
+                    "urlkey": "draw"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjc4NA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2784",
+                    "description": "Meet others who are interested in drawing or painting the figure.",
+                    "name": "Figure Drawing",
+                    "urlkey": "figuredrawing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTYzODk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16389",
+                    "description": null,
+                    "name": "Fine Arts",
+                    "urlkey": "fine-arts"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MjQxNDc=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 43
+            },
+            "urlkey": "art-culture"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NDA1",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "405",
+            "color": "#FFAD43",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "10575",
+              "description": "Meet other people interesting in business and furthering their careers!",
+              "name": "Business",
+              "urlkey": "business"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/career-business.jpg",
+            "name": "Career & Business",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mzc4",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "378",
+                    "description": "Meet other local Accountants to trade tax tips and talk shop!",
+                    "name": "Accounting",
+                    "urlkey": "accounting"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Njkw",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "690",
+                    "description": "Meet with local Advertisers to discuss the large impact ads have on pop culture.",
+                    "name": "Advertising",
+                    "urlkey": "advertising"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU4OTk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15899",
+                    "description": null,
+                    "name": "Affiliate Marketing",
+                    "urlkey": "affiliate-marketing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjkwMDA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "29000",
+                    "description": null,
+                    "name": "Angel Investing",
+                    "urlkey": "angel-investors"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTc2MA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "9760",
+                    "description": "Meet with other local Asian Professionals to network and discuss the unique perspective that belongs to business people who share an Asian descent.",
+                    "name": "Asian Professionals",
+                    "urlkey": "asianpros"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjU3OTI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "65792",
+                    "description": null,
+                    "name": "B2B Networking",
+                    "urlkey": "b2b-networking"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM2OQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2369",
+                    "description": "Meet other local cosmetologists, stylists, colorists, makeup artists, estheticians, and all beauty industry professionals.",
+                    "name": "Beauty Industry",
+                    "urlkey": "beautyindustry"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDY0MDM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "46403",
+                    "description": null,
+                    "name": "Beginner Real Estate Investing",
+                    "urlkey": "beginner-new-real-estate-investor"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTYzNDg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16348",
+                    "description": null,
+                    "name": "Black Entrepreneurs",
+                    "urlkey": "black-entrepreneurs"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjQ5NA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2494",
+                    "description": "Meet other local Black Professionals to network and discuss the unique perspective that belongs to business people who share an African heritage.",
+                    "name": "Black Professionals",
+                    "urlkey": "blackbiz"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDU4OTA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "45890",
+                    "description": null,
+                    "name": "Blog Marketing",
+                    "urlkey": "blogging-to-promote-yourself"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU1ODM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15583",
+                    "description": null,
+                    "name": "Building an Online Business",
+                    "urlkey": "building-an-online-business"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjY1Njk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "66569",
+                    "description": null,
+                    "name": "Building Residual Income",
+                    "urlkey": "building-residual-income"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA1NzU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10575",
+                    "description": "Meet other people interesting in business and furthering their careers!",
+                    "name": "Business",
+                    "urlkey": "business"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTgwMTI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18012",
+                    "description": null,
+                    "name": "Business Development",
+                    "urlkey": "business-development"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjAwNjA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20060",
+                    "description": "Meet other local entrepreneurs interested in networking!",
+                    "name": "Entrepreneur Networking",
+                    "urlkey": "business-entrepreneur-networking"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTY4Mzg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16838",
+                    "description": null,
+                    "name": "Business Growth",
+                    "urlkey": "business-growth"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU0MTc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15417",
+                    "description": null,
+                    "name": "Business Owners",
+                    "urlkey": "business-owners"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU0MDU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15405",
+                    "description": "Meet other local people interested in Business Referral Networking: gather to network, share advice, and exchange ideas!",
+                    "name": "Business Referral Networking",
+                    "urlkey": "business-referral-networking"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc2MzU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17635",
+                    "description": "Meet with local people interested in Business Strategy!",
+                    "name": "Business Strategy",
+                    "urlkey": "business-strategy"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "Mzc4",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 201
+            },
+            "urlkey": "career-business"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NjA0",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "604",
+            "color": "#78A38B",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "15227",
+              "description": null,
+              "name": "Community",
+              "urlkey": "community"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/community-environment.jpg",
+            "name": "Community & Environment",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjY5OTQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "26994",
+                    "description": null,
+                    "name": "Water",
+                    "urlkey": "acqua"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTk4MA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1980",
+                    "description": "Meet other local individuals interested in exploring all forms of Alternative Energy.  Discuss ways to preserve the world's resources and protect the environment!",
+                    "name": "Alternative Energy",
+                    "urlkey": "alternativeenergy"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU1OTg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "25598",
+                    "description": null,
+                    "name": "Charity",
+                    "urlkey": "charity"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTQwMDY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "54006",
+                    "description": null,
+                    "name": "Charity Events",
+                    "urlkey": "charity-events"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTcyMjM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "57223",
+                    "description": null,
+                    "name": "Charity & Philanthropy",
+                    "urlkey": "charity-philanthropy"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTY0NTM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16453",
+                    "description": null,
+                    "name": "Charity",
+                    "urlkey": "charity-work"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTY1MzA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16530",
+                    "description": null,
+                    "name": "Climate Change",
+                    "urlkey": "climate-change"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzQ3OQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3479",
+                    "description": "Meet with locals to swap the cool clothes you no longer want or need.  No cash traded, just clothes!",
+                    "name": "Clothing Swap",
+                    "urlkey": "clothesswap"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUyMjc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15227",
+                    "description": null,
+                    "name": "Community",
+                    "urlkey": "community"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA3Mjc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20727",
+                    "description": null,
+                    "name": "Community Building",
+                    "urlkey": "community-building"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzQ3NzE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "74771",
+                    "description": null,
+                    "name": "Community Gardening",
+                    "urlkey": "community-gardening"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTkxNjQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19164",
+                    "description": null,
+                    "name": "Community Outreach",
+                    "urlkey": "community-outreach"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg4NjY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18866",
+                    "description": null,
+                    "name": "Community Service",
+                    "urlkey": "community-service"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA0ODU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10485",
+                    "description": "Meet with others in your local area interested in coming together to act in common interest for the places you hold dear.  Community Organizations are centered on a specific place or locality and bring people together to create a base of concerned citizens, to mobilize community members to act, and to develop leadership from and relationships among the people involved.  Whether you're part of a neighborhood association, a local planning council, a community watch group, a historic preservation society, or another group focused on preserving, improving, developing, and enhancing a specific area, join in!",
+                    "name": "Community Organizations",
+                    "urlkey": "communityorg"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDczMTY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "47316",
+                    "description": null,
+                    "name": "Discover Your Neighborhood",
+                    "urlkey": "discover-your-neighborhood"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTY4MTY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16816",
+                    "description": null,
+                    "name": "Eco-Conscious",
+                    "urlkey": "eco-conscious"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM1NzA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "23570",
+                    "description": null,
+                    "name": "Emergency Preparedness",
+                    "urlkey": "emergency-preparedness"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTYxODM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16183",
+                    "description": null,
+                    "name": "Renewable Energy",
+                    "urlkey": "energie-rinnovabili"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjEzOTY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21396",
+                    "description": null,
+                    "name": "Energy",
+                    "urlkey": "energy"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg3MjE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18721",
+                    "description": null,
+                    "name": "Environmental Activism",
+                    "urlkey": "environmental-activism"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MjY5OTQ=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 57
+            },
+            "urlkey": "community-environment"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NjEy",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "612",
+            "color": "#F65858",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "17571",
+              "description": "Meet other locals who love dancing! All styles and levels welcomed.",
+              "name": "Dancing",
+              "urlkey": "dancing"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/dancing.jpg",
+            "name": "Dancing",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA1NTk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20559",
+                    "description": null,
+                    "name": "Argentine Tango",
+                    "urlkey": "argentine-tango"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjAxNjA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20160",
+                    "description": null,
+                    "name": "Bachata",
+                    "urlkey": "bachata"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc4MzE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17831",
+                    "description": null,
+                    "name": "Ballet",
+                    "urlkey": "ballet"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mzk5OA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3998",
+                    "description": "Meet other local Ballroom Dancers!",
+                    "name": "Ballroom",
+                    "urlkey": "ballroomdance"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTk3NDE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19741",
+                    "description": null,
+                    "name": "Belly Dance",
+                    "urlkey": "belly-dance"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjQ5OTg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "24998",
+                    "description": null,
+                    "name": "Belly Dance",
+                    "urlkey": "belly-dance-lessons"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU1NDI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15542",
+                    "description": null,
+                    "name": "Bhangra",
+                    "urlkey": "bhangra"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU5NjQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "25964",
+                    "description": null,
+                    "name": "Bollywood Dance",
+                    "urlkey": "bollywood-dancing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU5NQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2595",
+                    "description": "Meet with other local cabaret performers, burlesque dancers, and all those interested in vaudeville acts!",
+                    "name": "Burlesque",
+                    "urlkey": "burlesque"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTE4MDY4",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "118068",
+                    "description": null,
+                    "name": "Cabaret",
+                    "urlkey": "cabaret"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjA1ODI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "60582",
+                    "description": null,
+                    "name": "Circus Arts",
+                    "urlkey": "circus-arts"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTgyODI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18282",
+                    "description": null,
+                    "name": "Country Dancing",
+                    "urlkey": "country-dancing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzQxNjA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "34160",
+                    "description": null,
+                    "name": "Dance and Movement",
+                    "urlkey": "dance-and-movement"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTkxNDY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19146",
+                    "description": null,
+                    "name": "Dance Lessons",
+                    "urlkey": "dance-lessons"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc1NzE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17571",
+                    "description": "Meet other locals who love dancing! All styles and levels welcomed.",
+                    "name": "Dancing",
+                    "urlkey": "dancing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM5NTU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "23955",
+                    "description": null,
+                    "name": "Ecstatic Dance",
+                    "urlkey": "ecstatic-dance"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzA2MQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3061",
+                    "description": "Meet others in your local area that are interested in Fire Performers in one for or another.  Including Pyrotechnics, Firework Displays, Fire Twirling, Fire Dancing, Poi, Staff, Chinese Meteors, Fire Fingers, Swinging Poi, Fire Spinning, etc.",
+                    "name": "Fire Performers",
+                    "urlkey": "fireperformers"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTI0Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1242",
+                    "description": "Meet other local enthusiasts to discuss all things Flamenco: dance, guitar, singing and 12/8 time signature.",
+                    "name": "Flamenco",
+                    "urlkey": "flamenco"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjIwNTY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22056",
+                    "description": null,
+                    "name": "Hooping",
+                    "urlkey": "hooping"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODI1Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "8252",
+                    "description": "Meet other local people who enjoy Hula Hooping!  All those who make  and/or play with hula hoops are welcome.  Show your skills!",
+                    "name": "Hula Hooping",
+                    "urlkey": "hulahooping"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MjA1NTk=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 32
+            },
+            "urlkey": "dancing"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NTM1",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "535",
+            "color": "#F65858",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "15992",
+              "description": "Meet other locals interested in games: gather to have fun and play together!",
+              "name": "Games",
+              "urlkey": "games"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/games.jpg",
+            "name": "Games",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjYwMQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2601",
+                    "description": "Meet with Amtgard players in your area!",
+                    "name": "Amtgard",
+                    "urlkey": "amtgard"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjAx",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "601",
+                    "description": "Meet other local backgammon players.  Be sure to bring your board!",
+                    "name": "Backgammon",
+                    "urlkey": "backgammon"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTkwNDQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19044",
+                    "description": null,
+                    "name": "Billiards",
+                    "urlkey": "billiards"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTk1ODU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19585",
+                    "description": null,
+                    "name": "Board Games",
+                    "urlkey": "board-games"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Njg5",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "689",
+                    "description": "Meet other local bridge players in your area to play games, discuss strategies, and plan tournaments.",
+                    "name": "Bridge",
+                    "urlkey": "bridge"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mzg4Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3882",
+                    "description": "Meet other local Bunco players.  Meet and form local groups to play Bunco!",
+                    "name": "Bunco",
+                    "urlkey": "bunco"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTc5Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "9792",
+                    "description": "Meet with other local Card Game Enthusiasts!  Gather with others who love playing card games of all types!",
+                    "name": "Card Games",
+                    "urlkey": "cardgame"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjk2NQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2965",
+                    "description": "Meet other local Casino Enthusiasts.  Plan trips to casinos and discuss your passion for playing video poker, slot machines, card games, etc.!",
+                    "name": "Casino Games",
+                    "urlkey": "casino"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU4",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "258",
+                    "description": "Meet other local chess players to talk strategy and play games.",
+                    "name": "Chess",
+                    "urlkey": "chess"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjg5ODM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "28983",
+                    "description": null,
+                    "name": "Computer Gaming",
+                    "urlkey": "computer-gaming"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjg2NDM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "28643",
+                    "description": null,
+                    "name": "Console Gaming",
+                    "urlkey": "console-gaming"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU1",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "255",
+                    "description": "Meet other local Cribbage fans to talk strategy and play games.",
+                    "name": "Cribbage",
+                    "urlkey": "cribbage"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTAwNTE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10051",
+                    "description": "Meet with other Locals interested in Gaming using the D20 System, developed by Wizards of the Coast.  Gather to discuss and play games using this innovative innovative open license RPG system.",
+                    "name": "D20 Gaming",
+                    "urlkey": "d20"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE1ODU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21585",
+                    "description": null,
+                    "name": "Dice Games",
+                    "urlkey": "dice-games"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTUz",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "553",
+                    "description": "Meet other local Dungeons & Dragons players for adventures and fun! Come to a Dungeons & Dragons Meetup to explore fantastic worlds, clash with dark monsters, spin lore and commit heroic feats while playing the greatest RPG of all time!",
+                    "name": "Dungeons & Dragons",
+                    "urlkey": "dnd"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjAzNjc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20367",
+                    "description": null,
+                    "name": "D&D 3.5",
+                    "urlkey": "dungeons-dragons-3-5"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjAzNjg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20368",
+                    "description": null,
+                    "name": "D&D 4.0",
+                    "urlkey": "dungeons-dragons-4-0"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTU0",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "554",
+                    "description": "Meet other local Euchre players and enjoy a game or two!",
+                    "name": "Euchre",
+                    "urlkey": "euchre"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTY4MTQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16814",
+                    "description": null,
+                    "name": "European Board Games",
+                    "urlkey": "Euro-games"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDAxMjY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "40126",
+                    "description": "Meet other locals interested in hanging out and organizing game nights!",
+                    "name": "Game Night",
+                    "urlkey": "game-night"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MjYwMQ==",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 61
+            },
+            "urlkey": "games"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NTEx",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "511",
+            "color": "#F65858",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "302631",
+              "description": null,
+              "name": "Health & Wellbeing",
+              "urlkey": "health-wellbeing"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/health-wellbeing.jpg",
+            "name": "Health & Wellbeing",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU5NDI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15942",
+                    "description": null,
+                    "name": "Abundance And Prosperity",
+                    "urlkey": "abundance-and-prosperity"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE5ODI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21982",
+                    "description": null,
+                    "name": "Acupuncture & Oriental Medicine",
+                    "urlkey": "acupuncture"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTcxNTA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17150",
+                    "description": "Meet other locals interested in alternative medicine: gather to share knowledge, experiences and ideas!",
+                    "name": "Alternative Medicine",
+                    "urlkey": "alternative-medicine"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTg2Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "9862",
+                    "description": "Meet with other local people who are interested in discussing Anti-Aging methods.  Gather to share tips and talk about the best ways to longevity!",
+                    "name": "Anti-Aging",
+                    "urlkey": "antiaging"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzE0Ng==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3146",
+                    "description": "Meet with other local people who are interested in Aromatherapy.  Discuss the study of essential oils, their effects on the body, and all other ancillary topics of massage therapy, bodywork, etc.",
+                    "name": "Aromatherapy",
+                    "urlkey": "aromatherapy"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODY4Nw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "8687",
+                    "description": "Meet other Art Therapists and/or those who are studying Art Therapy.  Gather to network and share experiences and advice.",
+                    "name": "Art Therapy",
+                    "urlkey": "arttherapy"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg3OA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1878",
+                    "description": "Meet other local people interested in the world of Ayurveda.  Discuss this wholistic system of Indian medicine.",
+                    "name": "Ayurveda",
+                    "urlkey": "ayurveda"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjY0NDY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "26446",
+                    "description": null,
+                    "name": "Bhakti Yoga",
+                    "urlkey": "bhakti-yoga"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTk1NzA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19570",
+                    "description": null,
+                    "name": "Breathing Meditation",
+                    "urlkey": "breathing-meditation"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg0NzA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18470",
+                    "description": null,
+                    "name": "Breathing Meditation",
+                    "urlkey": "breathwork"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTY4ODc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16887",
+                    "description": null,
+                    "name": "Buddhist Meditation",
+                    "urlkey": "buddhist-meditation"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTAwMjI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10022",
+                    "description": "Meet with other local Byron Katie fans!  Gather to discuss her latest work!",
+                    "name": "Byron Katie",
+                    "urlkey": "byronkatie"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzE3NzM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "31773",
+                    "description": null,
+                    "name": "Caveman Diet",
+                    "urlkey": "caveman-diet"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE5MzQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21934",
+                    "description": null,
+                    "name": "Chakras",
+                    "urlkey": "chakra-clearing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc4MDY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17806",
+                    "description": null,
+                    "name": "Chakras",
+                    "urlkey": "chakras"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU4NTg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15858",
+                    "description": null,
+                    "name": "Chanting",
+                    "urlkey": "chanting"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDMwMQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "4301",
+                    "description": "Meet other local people who are interested in Traditional Chinese Medicine.  Discuss the efficacy of this ancient art, including ancillary topics of herbal remedies.",
+                    "name": "Chinese Medicine",
+                    "urlkey": "chinesemed"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg0NzU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18475",
+                    "description": null,
+                    "name": "Chiropractic Health",
+                    "urlkey": "chiropractic-health"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTE1ODI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "51582",
+                    "description": null,
+                    "name": "Compassion",
+                    "urlkey": "compassion"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjUxODY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "25186",
+                    "description": null,
+                    "name": "Conscious Living",
+                    "urlkey": "conscious-living"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MTU5NDI=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 123
+            },
+            "urlkey": "health-wellbeing"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NTcx",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "571",
+            "color": "#C57AA2",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "10578",
+              "description": "Meetup with others and share your love of hobbies!",
+              "name": "Hobbies",
+              "urlkey": "hobbies"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/hobbies-passions.jpg",
+            "name": "Hobbies & Passions",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTgyODY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18286",
+                    "description": null,
+                    "name": "4x4s",
+                    "urlkey": "4x4s"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzA0ODgy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "704882",
+                    "description": null,
+                    "name": "Adobe Lightroom",
+                    "urlkey": "adobe-lightroom"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTczNDQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17344",
+                    "description": null,
+                    "name": "Adult Paper Craft Classes",
+                    "urlkey": "adult-paper-craft-classes"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjMwNA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2304",
+                    "description": "Meet with other local booklovers to discuss literature by African-American authors.",
+                    "name": "African-American Authors",
+                    "urlkey": "africanamerauth"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU4OQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1589",
+                    "description": "Meet other local fans of Animation.  Be it Snow White, Rocky and Bullwinkle, Roger Rabbit or Shrek, all fans of theatrical and television animation (both conventional and computer-generated) are welcome!",
+                    "name": "Animation",
+                    "urlkey": "animation"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjg2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "286",
+                    "description": "Meet fellow Anime Fans near you! Come to a local Anime Meetup for fun, friends and talk about your favorite Anime/Manga artists, shows and games. Share your own art and fiction! Whatever interests you about Anime and Manga is welcome here.",
+                    "name": "Anime",
+                    "urlkey": "anime"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUxMzM3",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "151337",
+                    "description": null,
+                    "name": "Antique Collecting",
+                    "urlkey": "antique-collectible-shows"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE3",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "217",
+                    "description": "Meet other local people who are interested in Antique Collecting!",
+                    "name": "Antique Collecting",
+                    "urlkey": "antiques"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTQy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "542",
+                    "description": "Meet with local arthouse aficionados to discuss foreign films, independent films, shorts, documentaries and under appreciated cinema from the past. Beret and cigarette optional.",
+                    "name": "Arthouse",
+                    "urlkey": "arthouse"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjM3OA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "6378",
+                    "description": "Meet other local Art Models.  All who model for artists and sculptors meet to network, exchange ideas, and offer/receive advice in the specialized field of Art Modeling!",
+                    "name": "Art Modeling",
+                    "urlkey": "artmodeling"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE4",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "218",
+                    "description": "Meet other local astrology buffs and talk about it!  What's in your stars?",
+                    "name": "Astrology",
+                    "urlkey": "astrology"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA1MzM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20533",
+                    "description": null,
+                    "name": "Automotive",
+                    "urlkey": "automotive"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODU1MA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "8550",
+                    "description": "Meet others in your local interested in Auto Racing.  Both Auto Racers and Fans welcome!  Discuss one of the world's most popular spectator sports.",
+                    "name": "Auto Racing",
+                    "urlkey": "autoracing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM3",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "237",
+                    "description": "Meet other local aviation buffs.",
+                    "name": "Aviation",
+                    "urlkey": "aviation"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDQ5OQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "4499",
+                    "description": "Meet other locals who share your appreciation of the campy and kitschy nature of B-Movies!",
+                    "name": "B-Movies",
+                    "urlkey": "b-movies"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU3MTg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15718",
+                    "description": null,
+                    "name": "Baking",
+                    "urlkey": "baking"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUxNA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1514",
+                    "description": "Meet other local Beadwork artists to discuss techniques, products, and designs!",
+                    "name": "Beadwork",
+                    "urlkey": "beadwork"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjM2NzU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "63675",
+                    "description": null,
+                    "name": "Beauty",
+                    "urlkey": "beauty"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTQ3NQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1475",
+                    "description": "Meet with other local Beer drinkers to discuss the intricate delights of this favorite social lubricant.",
+                    "name": "Beer",
+                    "urlkey": "beer"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDY1OTM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "46593",
+                    "description": null,
+                    "name": "Beer",
+                    "urlkey": "beer-lovers"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MTgyODY=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 197
+            },
+            "urlkey": "hobbies-passions"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NjIy",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "622",
+            "color": "#FFAD43",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "20169",
+              "description": null,
+              "name": "Culture",
+              "urlkey": "culture"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/identity-language.jpg",
+            "name": "Identity & Language",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzUyMDM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "35203",
+                    "description": null,
+                    "name": "African Americans",
+                    "urlkey": "african-american"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzU2NDg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "35648",
+                    "description": null,
+                    "name": "African Culture",
+                    "urlkey": "african-culture"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTQwNjMy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "140632",
+                    "description": null,
+                    "name": "Africans",
+                    "urlkey": "africans"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzAy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "302",
+                    "description": "Meet other American Expats in your area.",
+                    "name": "Expat American",
+                    "urlkey": "american"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTE0MQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1141",
+                    "description": "Want to practice your Arabic? Meetup with others in your area who are also interested in the Arabic language. All ages and levels of proficiency are welcome!",
+                    "name": "Arabic",
+                    "urlkey": "arabic"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTYwNTg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "56058",
+                    "description": null,
+                    "name": "Arabic Culture",
+                    "urlkey": "arabic-culture"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA4MTY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20816",
+                    "description": null,
+                    "name": "Asians",
+                    "urlkey": "asian"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Njk1ODQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "69584",
+                    "description": null,
+                    "name": "Asian Americans",
+                    "urlkey": "asian-americans"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODQ0",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "844",
+                    "description": "Meet other local students, teachers, and fluent signers of ASL.",
+                    "name": "ASL Sign Languages",
+                    "urlkey": "asl"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTA1",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "505",
+                    "description": "Meet others in your local are who are interest in Australian Culture.  Whether you're Australian or just love Australia Languages and Culture, make new friends no matter where you live!",
+                    "name": "Australian Culture",
+                    "urlkey": "aussie"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDExMTc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "41117",
+                    "description": null,
+                    "name": "Expat Australian",
+                    "urlkey": "australian-expats"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODY2OTc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "86697",
+                    "description": null,
+                    "name": "Bisexual Femme",
+                    "urlkey": "bi-femmes"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjI4ODU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22885",
+                    "description": null,
+                    "name": "Bilingual Spanish/English",
+                    "urlkey": "bilingual-spanish-english"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjkyODk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "29289",
+                    "description": null,
+                    "name": "Bisexual",
+                    "urlkey": "bisexual-friends"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjkyODg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "29288",
+                    "description": null,
+                    "name": "Bisexual Men",
+                    "urlkey": "bisexual-men"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE3Mzc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21737",
+                    "description": null,
+                    "name": "Bisexual Women",
+                    "urlkey": "bisexual-women"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg0NTE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18451",
+                    "description": null,
+                    "name": "Black Identity",
+                    "urlkey": "black"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzU2NjY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "35666",
+                    "description": null,
+                    "name": "Black Men",
+                    "urlkey": "black-men"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg2MzQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18634",
+                    "description": null,
+                    "name": "Black Women",
+                    "urlkey": "black-women"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTAyOTc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10297",
+                    "description": "Meet other members of the ?Black Expressions Book Club? (Doubleday Book Club focused on African American literature) to discuss the book-of-the-month, share stories and make new friends. You do not need to be a Black Expressions member to participate. For more information on the Black Expressions Book Club visit http://blackexpressions.com.",
+                    "name": "Black Expressions",
+                    "urlkey": "blackexpressions"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MzUyMDM=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 137
+            },
+            "urlkey": "identity-language"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NjQy",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "642",
+            "color": "#78A38B",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "4377",
+              "description": "Meet other people interested in politics and activism!",
+              "name": "Politics",
+              "urlkey": "politics"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/movements-politics.jpg",
+            "name": "Movements & Politics",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjIwODA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22080",
+                    "description": null,
+                    "name": "10th Amendment",
+                    "urlkey": "10th-amendment"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTkxOTc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19197",
+                    "description": null,
+                    "name": "Activism",
+                    "urlkey": "activism"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDM0MTQy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "434142",
+                    "description": null,
+                    "name": "Americans Elect",
+                    "urlkey": "americans-elect"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTMxODA4Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1318082",
+                    "description": null,
+                    "name": "Beppe Grillo",
+                    "urlkey": "amici-di-beppe-grillo"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM0OQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2349",
+                    "description": "Meet other local animal rights activists.  Gather and discuss animal abuse and the abolishment of using animals for food, clothing, science, etc.",
+                    "name": "Animal Rights & Welfare",
+                    "urlkey": "animalrights"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "92",
+                    "description": "Meet other local activists to discuss animal welfare.",
+                    "name": "Animal Rights & Welfare",
+                    "urlkey": "animalwelfare"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTU5MDg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "95908",
+                    "description": null,
+                    "name": "Civic Activism",
+                    "urlkey": "attivismo-civico"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODIz",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "823",
+                    "description": "Meet other local fans of author Ayn Rand and her philosophy of Objectivism -- a philosophy of Reason, Purpose and Self-Esteem that holds human life on this Earth as the standard of all values and *your* life as an end in itself.",
+                    "name": "Ayn Rand",
+                    "urlkey": "aynrand"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE5OQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2199",
+                    "description": "Meet other local supporters of Barack Obama!",
+                    "name": "Barack Obama",
+                    "urlkey": "barackobama"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzE2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "716",
+                    "description": "Meet other local supporters of the Constitutional right to keep and bear arms.",
+                    "name": "Right to Bear Arms",
+                    "urlkey": "beararms"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTAyMTg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10218",
+                    "description": "Meet nearby Beppe Grillo Fans! Come to a local Beppe Grillo Meetup and discuss the topics he proposes on his blog (www.beppegrillo.it). \r\n\r\nDiscussione sui temi proposti da Beppe Grillo sul suo blog (www.beppegrillo.it).",
+                    "name": "Beppe Grillo",
+                    "urlkey": "beppegrillo"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU1ODE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15581",
+                    "description": null,
+                    "name": "Campaign for Liberty",
+                    "urlkey": "campaign-for-liberty"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjQ3OQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2479",
+                    "description": "Meet other local people who believe that a firm separation of Church and State is essential to our form of government.",
+                    "name": "Separation of Church and State",
+                    "urlkey": "churchandstate"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjEyOTE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21291",
+                    "description": null,
+                    "name": "Active Citizens",
+                    "urlkey": "cittadinanza-attiva"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzcxODE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "37181",
+                    "description": null,
+                    "name": "Civic Engagement",
+                    "urlkey": "civic-engagement"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzUwOA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3508",
+                    "description": "Meet with local Civil Rights advocates.  Help advance justice, fairness and equal opportunity for all.",
+                    "name": "Civil Rights",
+                    "urlkey": "civilrights"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzY4ODY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "36886",
+                    "description": null,
+                    "name": "Concealed Carry Weapons Permit",
+                    "urlkey": "concealed-carry-weapons-permit"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDc5NDE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "47941",
+                    "description": null,
+                    "name": "Conflict Resolution",
+                    "urlkey": "conflict-resolution"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU5ODg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "25988",
+                    "description": null,
+                    "name": "Free Public Connectivity",
+                    "urlkey": "connettivita-pubblica-gratuita"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTY3MA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1670",
+                    "description": "Meet other local conservatives to discuss politics, government and current issues.",
+                    "name": "Conservatives",
+                    "urlkey": "conservative"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MjIwODA=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 77
+            },
+            "urlkey": "movements-politics"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "Mzk1",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "395",
+            "color": "#78A38B",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "15018",
+              "description": "Meet with other local music enthusiasts! Gather for socializing, meet new people and, of course, listen to music!",
+              "name": "Music",
+              "urlkey": "music"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/music.jpg",
+            "name": "Music",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjI3Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2272",
+                    "description": "Meet other local fans of 80's music.",
+                    "name": "80's Music",
+                    "urlkey": "80smusic"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTQ4MA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1480",
+                    "description": "Meet other local A Cappella music fans to discuss music, a cappella groups, and singing techniques.",
+                    "name": "A Cappella",
+                    "urlkey": "acappella"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzY0MDc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "36407",
+                    "description": null,
+                    "name": "Acoustic Guitar",
+                    "urlkey": "acoustic-guitar"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDA0NjQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "40464",
+                    "description": null,
+                    "name": "Acoustic Jams",
+                    "urlkey": "acoustic-jams"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTM5NDY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "53946",
+                    "description": null,
+                    "name": "Acoustic Music",
+                    "urlkey": "acoustic-music"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA3MzI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20732",
+                    "description": null,
+                    "name": "African Drumming",
+                    "urlkey": "african-drumming"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTM4",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "138",
+                    "description": "Meet other African Music fans in your town!",
+                    "name": "African Music",
+                    "urlkey": "africanmusic"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTM2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "136",
+                    "description": "Meet other bluegrass fans in your town!",
+                    "name": "Bluegrass",
+                    "urlkey": "bluegrass"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTM1",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "135",
+                    "description": "Meet with other local Blues fans!",
+                    "name": "Blues",
+                    "urlkey": "blues"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzExNw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "7117",
+                    "description": "Meet other local fans of Chamber Music.  Gather and share concert experiences, schedules, etc. with other fans!",
+                    "name": "Chamber Music",
+                    "urlkey": "chamber"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDgzMDY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "48306",
+                    "description": null,
+                    "name": "Choir",
+                    "urlkey": "choir"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTMz",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "133",
+                    "description": "Meet other Classical Music enthusiasts in your town!",
+                    "name": "Classical Music",
+                    "urlkey": "classical"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjI3OA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2278",
+                    "description": "Meet other local Hand-Drummers who are interested in forming a drum circle.",
+                    "name": "Drum Circle",
+                    "urlkey": "drumcircle"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc1",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "175",
+                    "description": "Meet other local Drummers to talk about gigs, gear, and techniques!",
+                    "name": "Drums",
+                    "urlkey": "drums"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc5NzA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17970",
+                    "description": null,
+                    "name": "Electronic Dance Music",
+                    "urlkey": "electronic-dance-music"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDEx",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "411",
+                    "description": "Meet other local fans to talk about electronica, trance, house, and other types of popular electronic music. Check out URB magazine.",
+                    "name": "Electronic Music",
+                    "urlkey": "electronicmusic"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTMy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "132",
+                    "description": "Meet other local Folk music fans.",
+                    "name": "Folk Music",
+                    "urlkey": "folk"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTQyNjg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "54268",
+                    "description": null,
+                    "name": "Group Singing",
+                    "urlkey": "group-singing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjIzNjQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22364",
+                    "description": null,
+                    "name": "Guitar",
+                    "urlkey": "guitar"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTY3MzM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16733",
+                    "description": null,
+                    "name": "Hand Drumming",
+                    "urlkey": "hand-drumming"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MjI3Mg==",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 47
+            },
+            "urlkey": "music"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "Njcz",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "673",
+            "color": "#97CAD1",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "16024",
+              "description": "Meet other parents and family members and share your experiences!",
+              "name": "Family",
+              "urlkey": "family"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/parents-family.jpg",
+            "name": "Parents & Family",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTQ4MzMx",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "148331",
+                    "description": null,
+                    "name": "Active Parents",
+                    "urlkey": "active-parents"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc3Nw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1777",
+                    "description": "Meet other local Adoptive Parents and those who have been Adopted.  Gather to discuss acceptance, social and legal issues, and to offer support to one another.",
+                    "name": "Adoption",
+                    "urlkey": "adoption"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDcxNTE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "47151",
+                    "description": null,
+                    "name": "Adoptive Parents With Young Children",
+                    "urlkey": "adoptive-parents-with-young-children"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc4NjA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17860",
+                    "description": null,
+                    "name": "African American Families",
+                    "urlkey": "african-american-families"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mzc2NQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3765",
+                    "description": "Meet with other local Alternative Parents.  Whether punk, emo, gay, or any of those nifty alternative ways to be, meet other parents who are not so mainstream!",
+                    "name": "Alternative Parenting",
+                    "urlkey": "alternaparent"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTYyMQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1621",
+                    "description": "Meet other parents who don't take the easy way out of parenting.  Whether supporters of Breastfeeding, Child Led Weaning, Cloth diapering, Homeschooling, Babywearing, or Co-sleeping all are welcome here.",
+                    "name": "Attachment Parenting",
+                    "urlkey": "attachmentparenting"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU0NjE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15461",
+                    "description": null,
+                    "name": "Babies",
+                    "urlkey": "babies"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc1MzU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17535",
+                    "description": null,
+                    "name": "Babywearing",
+                    "urlkey": "baby-wearing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg2NzY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18676",
+                    "description": null,
+                    "name": "Bilingual Children",
+                    "urlkey": "bilingual-children"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTgyNTE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18251",
+                    "description": null,
+                    "name": "Birthing Experience & Choices",
+                    "urlkey": "birthing-experience-choices"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU1MzQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15534",
+                    "description": null,
+                    "name": "Breastfeeding",
+                    "urlkey": "breastfeeding"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE1OTk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21599",
+                    "description": null,
+                    "name": "Brides-to-be",
+                    "urlkey": "brides-to-be"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTg2MA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "9860",
+                    "description": "Meet with other local people who are interested in discussing Christian Parenting.  Share your methods with others who are raising a family in a Christian household.",
+                    "name": "Christian Parenting",
+                    "urlkey": "christianparent"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc2NzE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17671",
+                    "description": null,
+                    "name": "Cloth Diapers",
+                    "urlkey": "cloth-diapers"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDY4",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "468",
+                    "description": "Meet other Dads in your local area.  Discuss a father's role as well as parenting, school, and other various \"dad\" related topics.",
+                    "name": "Dads",
+                    "urlkey": "dads"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjQzMTQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "24314",
+                    "description": null,
+                    "name": "Divorced Parents",
+                    "urlkey": "divorced-parents"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUxNzg1NA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1517854",
+                    "description": null,
+                    "name": "Parental Leave",
+                    "urlkey": "elternzeit"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDcxNTc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "47157",
+                    "description": null,
+                    "name": "Expecting Moms",
+                    "urlkey": "expecting-moms"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzI2MTQy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "726142",
+                    "description": null,
+                    "name": "Expecting Parents",
+                    "urlkey": "expecting-parents"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTYwMjQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "16024",
+                    "description": null,
+                    "name": "Family",
+                    "urlkey": "families"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MTQ4MzMx",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 78
+            },
+            "urlkey": "parents-family"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NzAx",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "701",
+            "color": "#78A38B",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "37663",
+              "description": null,
+              "name": "Animals",
+              "urlkey": "animals"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/pets-animals.jpg",
+            "name": "Pets & Animals",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTc3Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "9772",
+                    "description": "Meet with other local Active Dogs Owners.  All those who enjoy taking their dogs out gather to share info on local dog-friendly places and meet other dog owners!",
+                    "name": "Active Dogs",
+                    "urlkey": "activedogs"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjUyOQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2529",
+                    "description": "Meet others who are interested in the sport of dog agility.",
+                    "name": "Agility",
+                    "urlkey": "agility"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA0OTU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10495",
+                    "description": "Meet others in your local area interested in Animal Rescue of any kind.",
+                    "name": "Animal Rescue",
+                    "urlkey": "animalrescue"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mzc2NjM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "37663",
+                    "description": null,
+                    "name": "Animals",
+                    "urlkey": "animals"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTQ5Ng==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1496",
+                    "description": "Meet other local American Pit Bull Terriers and their owners.",
+                    "name": "American Pit Bull Terrier",
+                    "urlkey": "apbt"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTE5",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "119",
+                    "description": "Meet other Beagle Owners in your town to trade tips and stories and get your little pal out for some fun!",
+                    "name": "Beagle",
+                    "urlkey": "beagles"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTI0",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "124",
+                    "description": "Meet other Bird lovers & Bird owners in your town!",
+                    "name": "Birds",
+                    "urlkey": "birds"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU3OA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2578",
+                    "description": "Meet other local Birdwatchers.  Gather to discuss sightings and learn more about our feathered wonders.",
+                    "name": "Bird Watching",
+                    "urlkey": "birdwatching"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTk5MQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1991",
+                    "description": "Meet fellow Boston Terriers and Boston Terrier Lovers near you! Come to a local Boston Terrier Meetup to play with black, brindle and seal Bostons, talk breeding and have fun. Have your own dog show with those little pups you treat like family!",
+                    "name": "Boston Terrier",
+                    "urlkey": "bostonterrier"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTE3",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "117",
+                    "description": "Meet other local Boxer Owners to trade stories and tips. Get your dog - and yourself - out for some fun!",
+                    "name": "Boxer",
+                    "urlkey": "boxer"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjgwOA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "6808",
+                    "description": "Meet other local people who have chickens as pets and for eggs.",
+                    "name": "Pet Chicken",
+                    "urlkey": "chicken"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "106",
+                    "description": "Meet friendly Chihuahuas and Chihuahua Owners near you! Come to a local Chihuahua Meetup to have your own dog show and talk breeding. Longcoat or smoothcoat, puppy or adult -- all shapes, sizes and breeds of chihuahuas and people are welcome!",
+                    "name": "Chihuahua",
+                    "urlkey": "chihuahua"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA5NA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2094",
+                    "description": "Meet other local Pembroke Welsh Corgis, Cardigan Welsh Corgis and their people.",
+                    "name": "Corgi",
+                    "urlkey": "corgi"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTE2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "116",
+                    "description": "Meet fellow Dachshunds and Dachshund Owners near you! Come to a local Dachshund Meetup to talk about training issues, \r\nhealth and nutrition, and the general well-being of our popular \r\nbreed, as well as let the dogs romp and play and make new \r\nfriends. Longhaired, Smooth or Wirehaired; miniature or full-sized, all breeds of Dachshunds and people are welcome!",
+                    "name": "Dachshund",
+                    "urlkey": "dachshund"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc0MDc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17407",
+                    "description": null,
+                    "name": "Dog Parks",
+                    "urlkey": "dog-parks"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTgzNDA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18340",
+                    "description": null,
+                    "name": "Dog Playgroups",
+                    "urlkey": "dog-play-groups"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg4NzQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18874",
+                    "description": null,
+                    "name": "Dog Walks",
+                    "urlkey": "dog-walks"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA5",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "109",
+                    "description": "Meet other local animal lovers involved in dog rescue.",
+                    "name": "Dog Rescue",
+                    "urlkey": "dogrescue"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUwNjc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15067",
+                    "description": null,
+                    "name": "Dogs",
+                    "urlkey": "dogs"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTAwMjQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10024",
+                    "description": "Meet with other local people who are interested in Dog Training.  Gather with trainers and all those who would like tips on training their pooches!",
+                    "name": "Dog Training",
+                    "urlkey": "dogtraining"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "OTc3Mg==",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 42
+            },
+            "urlkey": "pets-animals"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NTkz",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "593",
+            "color": "#97CAD1",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "140520",
+              "description": null,
+              "name": "Beliefs",
+              "urlkey": "beliefs"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/religion-spirituality.jpg",
+            "name": "Religion & Spirituality",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjc1Ng==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2756",
+                    "description": "Meet other followers of Abraham-Hicks - Science of Deliberate Creation.",
+                    "name": "Abraham-Hicks",
+                    "urlkey": "abrahamhicks"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTE5Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1192",
+                    "description": "Meet other local Christians who believe in the principles Jesus Christ taught and want to incoporate them into modern life. Gather for companionship and community building.",
+                    "name": "Progressive Christian",
+                    "urlkey": "ac-christians"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjExMw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2113",
+                    "description": "Meet other local students of A Course In Miracles.  Share studies and ideas on practical applications in one's daily life.",
+                    "name": "A Course In Miracles",
+                    "urlkey": "acim"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzE4NA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "7184",
+                    "description": "Meet other local Adult Indigos.  Gather for support, friendship, and to discuss what life was like when there was no label for the phenomenon!",
+                    "name": "Adult Indigo",
+                    "urlkey": "adultindigo"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTcxNTY2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "171566",
+                    "description": null,
+                    "name": "Advaita Vedanta",
+                    "urlkey": "advaita-vedanta"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTM3NA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1374",
+                    "description": "Meet other agnostics near you to talk about the view that any ultimate reality is unknown and probably unknowable.",
+                    "name": "Agnostic",
+                    "urlkey": "agnostic"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTgwMTg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18018",
+                    "description": null,
+                    "name": "Ancient Religions and Rituals",
+                    "urlkey": "ancient-religions-and-rituals"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzQ3Nw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "7477",
+                    "description": "Meet other local people who believe in Angels and are interested in a discussion about their effect on the material plane. All paths are welcome.",
+                    "name": "Angels",
+                    "urlkey": "angels"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Nzcw",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "770",
+                    "description": "Meet others in your local are that are believers in the Norse religion of Asatru.  Asatru is also known as Fornsedr, Heathenry, Northvedr, Odinism and Theodish Belief.",
+                    "name": "Asatru",
+                    "urlkey": "asatru"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjI3MzE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22731",
+                    "description": null,
+                    "name": "Ascension",
+                    "urlkey": "ascension"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzI3Mg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3272",
+                    "description": "Meet others who believe in the ability to leave the body and walk the astral plane.",
+                    "name": "Astral Projection",
+                    "urlkey": "astralprojection"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTk2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "596",
+                    "description": "Meet other local atheists and freethinkers.  Gather to discuss beliefs and philosophies, and make new friends.",
+                    "name": "Atheist",
+                    "urlkey": "atheists"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjQ3MjM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "24723",
+                    "description": null,
+                    "name": "Spiritual Awakening",
+                    "urlkey": "awakening"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU0MA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2540",
+                    "description": "Meet with locals who have experienced intraoperative Awareness, being awake during surgery when one is supposed to be anesthetized.",
+                    "name": "Spiritual Awakening",
+                    "urlkey": "awareness"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTQwNTIw",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "140520",
+                    "description": null,
+                    "name": "Beliefs",
+                    "urlkey": "beliefs"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDAzODg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "40388",
+                    "description": null,
+                    "name": "Bible Study",
+                    "urlkey": "bible"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM1Mw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2353",
+                    "description": "Meet other local people who are interested in studying the Bible.  Gather to plan study sessions and/or discuss biblical origins and traditions.",
+                    "name": "Bible Study",
+                    "urlkey": "biblestudy"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzgyMDI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "38202",
+                    "description": null,
+                    "name": "Bnei Baruch  Kabbalah",
+                    "urlkey": "bnei-baruch-kabbalah"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjAy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "602",
+                    "description": "Meet other Born Again Christians in your town.",
+                    "name": "Born Again Christian",
+                    "urlkey": "bornagain"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjc4Nw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2787",
+                    "description": "Meet other local people whose worldview is naturalistic. Be sure to check out The Brights.",
+                    "name": "Brights",
+                    "urlkey": "brights"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "Mjc1Ng==",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 144
+            },
+            "urlkey": "religion-spirituality"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NDM2",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "436",
+            "color": "#F65858",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "8476",
+              "description": "Meet others in your local area who are interested in Education.  Gather to discuss various educational topics and opportunities.",
+              "name": "Education",
+              "urlkey": "education"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/science-education.jpg",
+            "name": "Science & Education",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTk0MA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "9940",
+                    "description": "Meetup with other local alumni from your college.  Gather to discuss your current post-college life, careers, and future alumni events in your town!",
+                    "name": "College Alumni",
+                    "urlkey": "alumni"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc5Mw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1793",
+                    "description": "Meet other local American History fanatics to share knowledge and a love of history.",
+                    "name": "American History",
+                    "urlkey": "amerhistory"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA1MDA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10500",
+                    "description": "Meet with others in your local area interested in the Historical American West.",
+                    "name": "Historical American West",
+                    "urlkey": "americanwest"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDg1",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "485",
+                    "description": "Meet other local astronomy buffs and talk about the cosmos.",
+                    "name": "Astronomy",
+                    "urlkey": "astronomy"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTAxMDc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10107",
+                    "description": "Meet other locals interested in Biology. Scientists/Engineers and non-professionals alike who work in the life sciences are invited to meet for conversation, camaraderie, and fun.",
+                    "name": "Biology",
+                    "urlkey": "biology"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjM4NjM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "63863",
+                    "description": null,
+                    "name": "Cognitive Science",
+                    "urlkey": "cognitive-science"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjk3MjM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "29723",
+                    "description": null,
+                    "name": "College Students",
+                    "urlkey": "college-students"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA5MjM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20923",
+                    "description": "Meet other locals interested in improving their communication skills!",
+                    "name": "Communication Skills",
+                    "urlkey": "communication-skills"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTcwMA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1700",
+                    "description": "Meet other local people who want to do discuss ideas, concepts and actions to preserve and protect the natural ecosystems.",
+                    "name": "Conservation",
+                    "urlkey": "conservation"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA2Mjk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20629",
+                    "description": null,
+                    "name": "Courses and Workshops",
+                    "urlkey": "courses-and-workshops"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU1NDQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15544",
+                    "description": null,
+                    "name": "Critical Thinking",
+                    "urlkey": "critical-thinking"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODMzOTUy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "833952",
+                    "description": null,
+                    "name": "Debate",
+                    "urlkey": "debates"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzAwNw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3007",
+                    "description": "Meet other local people interested in Ecology. Scientists/Engineers and non-professionals alike who work toward sustainable human impact on the Earth are invited to meet for conversation, camaraderie, and fun.",
+                    "name": "Ecology",
+                    "urlkey": "ecology"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzczNw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3737",
+                    "description": "Meet other local Economics Aficianados.  Discuss all issues related to economics in your local area.",
+                    "name": "Economics",
+                    "urlkey": "economics"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzIwMw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "7203",
+                    "description": "Meet other local people who are interested in a discussion on the issue of Education & Technology. Gather and trade ideas on how to bring the latest technology into our schools and businesses.",
+                    "name": "Education & Technology",
+                    "urlkey": "edtech"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODQ3Ng==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "8476",
+                    "description": "Meet others in your local area who are interested in Education.  Gather to discuss various educational topics and opportunities.",
+                    "name": "Education",
+                    "urlkey": "education"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE3NTA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21750",
+                    "description": null,
+                    "name": "Engineering",
+                    "urlkey": "engineering"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "89",
+                    "description": "Meet others in your town interested in various Environmental issues on global and/or a local level.",
+                    "name": "Environment",
+                    "urlkey": "environment"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjIyMDg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22208",
+                    "description": null,
+                    "name": "Environmental Education",
+                    "urlkey": "environmental-education"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc2OA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1768",
+                    "description": "What's Right?  What's Wrong? Why? Meetup to discuss your values and their implications.",
+                    "name": "Ethics",
+                    "urlkey": "ethics"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "OTk0MA==",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 63
+            },
+            "urlkey": "science-education"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NjUy",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "652",
+            "color": "#C57AA2",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "10581",
+              "description": "Meet and hang out with other social people just like you! Let's socialize!",
+              "name": "Social",
+              "urlkey": "social"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/social-activities.jpg",
+            "name": "Social Activities",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTcyMDE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17201",
+                    "description": null,
+                    "name": "20's-30's",
+                    "urlkey": "20s-30s-social"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjk1NDE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "29541",
+                    "description": null,
+                    "name": "20's-30's",
+                    "urlkey": "20s-and-30s"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc5MjU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17925",
+                    "description": null,
+                    "name": "20's",
+                    "urlkey": "20s-social"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTkxMzM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19133",
+                    "description": null,
+                    "name": "30's-40's",
+                    "urlkey": "30s-and-40s"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUxMTY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15116",
+                    "description": null,
+                    "name": "Activities",
+                    "urlkey": "activities"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjc5Nzg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "27978",
+                    "description": null,
+                    "name": "African American Women",
+                    "urlkey": "african-american-women"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDI0OTQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "42494",
+                    "description": null,
+                    "name": "Afternoon Tea",
+                    "urlkey": "afternoon-tea"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTAwOTk3",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "100997",
+                    "description": null,
+                    "name": "Asian Food",
+                    "urlkey": "asian-food"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjIzMjM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22323",
+                    "description": null,
+                    "name": "Asian Singles",
+                    "urlkey": "asian-singles"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM4ODU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "23885",
+                    "description": null,
+                    "name": "Atlanta",
+                    "urlkey": "atlanta"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUyNDc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15247",
+                    "description": null,
+                    "name": "Austin",
+                    "urlkey": "austin"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjYxMQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2611",
+                    "description": "Meet with local Baby Boomers.  Discuss issues facing today's BabyBoomer, i.e. 83 Million plus retirement age in 2010.  These groups can meet to help make a difference in communities worldwide.",
+                    "name": "Baby Boomers",
+                    "urlkey": "babyboomer"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjMyOTQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "23294",
+                    "description": null,
+                    "name": "Baltimore",
+                    "urlkey": "baltimore"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjI5NzM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22973",
+                    "description": null,
+                    "name": "Bay Area",
+                    "urlkey": "bay-area"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTIxMA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1210",
+                    "description": "Meet with people who love BBQ to exchange recipes and ideas on the art of BBQ. And maybe eat some too!",
+                    "name": "BBQ",
+                    "urlkey": "bbq"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg2NA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1864",
+                    "description": "Meet other local Big Beautiful Women to discuss dealing with \"skinny\" society.",
+                    "name": "Big Beautiful Women",
+                    "urlkey": "bbw"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc5OTE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17991",
+                    "description": null,
+                    "name": "Berlin",
+                    "urlkey": "berlin"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTcwNTM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17053",
+                    "description": null,
+                    "name": "Black Singles",
+                    "urlkey": "black-singles"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzEyNTQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "31254",
+                    "description": null,
+                    "name": "Boston",
+                    "urlkey": "boston"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUwNzU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15075",
+                    "description": null,
+                    "name": "Breakfast & Brunch",
+                    "urlkey": "breakfast"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MTcyMDE=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 197
+            },
+            "urlkey": "social-activities"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NDgy",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "482",
+            "color": "#C57AA2",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "242",
+              "description": "Meet other local Fitness Buffs to trade workout tips and stay motivated! Perhaps even find a workout/gym partner!",
+              "name": "Fitness",
+              "urlkey": "fitness"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/sports-fitness.jpg",
+            "name": "Sports & Fitness",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUxMjgw",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "151280",
+                    "description": null,
+                    "name": "10K",
+                    "urlkey": "10k"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzMxMDM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "33103",
+                    "description": null,
+                    "name": "5K",
+                    "urlkey": "5k"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Njc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "67",
+                    "description": "Meet other local Sixers fans.",
+                    "name": "Philadelphia 76ers",
+                    "urlkey": "76ers"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDYwNw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "4607",
+                    "description": "Meet other local Adventure Racing Enthusiasts.  Adventure Racing is an emerging extreme sport with well-known worldwide races, such as the Eco-Challenge.",
+                    "name": "Adventure Racing",
+                    "urlkey": "adventureracing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mzcx",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "371",
+                    "description": "Meet other fitness buffs to talk about aerobics.",
+                    "name": "Aerobics",
+                    "urlkey": "aerobics"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg3OQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1879",
+                    "description": "Meet other local Aikidoka to get off the mat for some fun and relaxation as well as learn about people from surrounding dojos.",
+                    "name": "Aikido",
+                    "urlkey": "aikido"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTY1Nw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "9657",
+                    "description": "Meet with other local Airsoft players!  Gather to hang out and plan a game!",
+                    "name": "Airsoft",
+                    "urlkey": "airsoft"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjkwNg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2906",
+                    "description": "Meet other Badminton Players.  Singles or doubles, with or without a net, rules, etc.  Much is to be determined by the participants, their objectives and (leisure vs. competition). experience and how competitive. Are you there to have fun or to win? A little of both?",
+                    "name": "Badminton",
+                    "urlkey": "badminton"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzY5MjY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "36926",
+                    "description": null,
+                    "name": "Barefoot Running",
+                    "urlkey": "barefoot-running"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "80",
+                    "description": "Meet other local baseball fans to attend games, form teams or discuss your favorite teams and trivia. Batter up!",
+                    "name": "Baseball",
+                    "urlkey": "baseball"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjUzNTY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "25356",
+                    "description": null,
+                    "name": "Baseball at a Sports Bar",
+                    "urlkey": "baseball-at-a-sports-bar"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzU5Nw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "3597",
+                    "description": "Meet other local Basketball fans and players.  Whether you're a fan of Professional Teams, College Teams, Recreational Teams or just love a pick up game, join a Meetup Group near you and discuss the sport, leagues, etc.  Play the game!",
+                    "name": "Basketball",
+                    "urlkey": "basketball"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTgyNjY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18266",
+                    "description": null,
+                    "name": "Beach Volleyball",
+                    "urlkey": "beach-volleyball"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU2NDI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15642",
+                    "description": null,
+                    "name": "BeachBody",
+                    "urlkey": "beachbody"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTAzNDU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "90345",
+                    "description": null,
+                    "name": "BeachBody",
+                    "urlkey": "beachbody-workouts"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "62",
+                    "description": "Meet other local Bears fans.",
+                    "name": "Chicago Bears",
+                    "urlkey": "bears"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjQzMjU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "24325",
+                    "description": null,
+                    "name": "Beginners Running",
+                    "urlkey": "beginners-running"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTE5NTI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "51952",
+                    "description": null,
+                    "name": "Bootcamps",
+                    "urlkey": "bootcamps"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjMwODM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "23083",
+                    "description": null,
+                    "name": "Boston Bruins",
+                    "urlkey": "boston-bruins"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mzcz",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "373",
+                    "description": "Meet other local bowlers and strike up a conversation.",
+                    "name": "Bowling",
+                    "urlkey": "bowling"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MTUxMjgw",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 164
+            },
+            "urlkey": "sports-fitness"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NDQ5",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "449",
+            "color": "#78A38B",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "19925",
+              "description": null,
+              "name": "Support",
+              "urlkey": "support"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/support-coaching.jpg",
+            "name": "Support & Coaching",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUxNDM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15143",
+                    "description": null,
+                    "name": "12 Step Recovery",
+                    "urlkey": "12-step-recovery"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA3MQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2071",
+                    "description": "Meet other local survivors of sexual, physical, or emotional abuse to share advice on surviving and coping.",
+                    "name": "Abuse Survivors",
+                    "urlkey": "abusesurvivors"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDIzMTk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "42319",
+                    "description": null,
+                    "name": "Achieving Goals",
+                    "urlkey": "achieving-your-goals"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjczNA==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2734",
+                    "description": "Meet others who suffer from addictive behaviours.  Discuss the 12 step recovery plan to overcome addictions, along with other methods of healing.  All addictions are welcome.",
+                    "name": "Addiction",
+                    "urlkey": "addiction"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTIxMjY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "12126",
+                    "description": null,
+                    "name": "ADHD",
+                    "urlkey": "adhd"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTkxMzkx",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "191391",
+                    "description": null,
+                    "name": "ADHD",
+                    "urlkey": "adhd-support"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjgzNzM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "68373",
+                    "description": null,
+                    "name": "Alcohol and Drug Free",
+                    "urlkey": "alcohol-and-drug-free"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Njc4Mw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "6783",
+                    "description": "Meet other local people who suffer from Alcoholism.  Gather for support, companionship, and advice.  Friends and family of alcoholics are also welcome to attend.",
+                    "name": "Alcoholism",
+                    "urlkey": "alcoholism"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU2OQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1569",
+                    "description": "Meet other local people with severe allergies to discuss prevention and treatments.",
+                    "name": "Allergies",
+                    "urlkey": "allergies"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg5MQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1891",
+                    "description": "Meet other local people and families finding ways to cope with many of the difficult life decisions presented by Alzheimer's disease.",
+                    "name": "Alzheimer's Disease",
+                    "urlkey": "alzheimers"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODg0Ng==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "8846",
+                    "description": "Meet other local people who are interested in a discussion about Anger Management.  Talk about ways to deal with your anger so that it doesn't take over your life.",
+                    "name": "Anger Management",
+                    "urlkey": "angermgt"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDgwNTc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "48057",
+                    "description": null,
+                    "name": "Anxiety",
+                    "urlkey": "anxiety-support"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzI2NQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "7265",
+                    "description": "Meet other local fans of personal development coach and author, Anthony Robbins (Tony Robbins).  Gather, swap stories, and discuss his motivational techniques.",
+                    "name": "Anthony Robbins",
+                    "urlkey": "arobbins"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM3Mw==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "2373",
+                    "description": "Meet other local people who have arthritis of any kind to discuss life, medicine, exercise, surgery, and to offer each other support.",
+                    "name": "Arthritis",
+                    "urlkey": "arthritis"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Nzc4Mzg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "77838",
+                    "description": null,
+                    "name": "Asperger Syndrome",
+                    "urlkey": "asperger-syndrome"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzEwMDk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "31009",
+                    "description": null,
+                    "name": "Authenticity",
+                    "urlkey": "authenticity"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjM3",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "637",
+                    "description": "Meet others in your local area with Autism to talk and share strategies, treatments, etc.",
+                    "name": "Autism",
+                    "urlkey": "autism"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjM4MDg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "23808",
+                    "description": null,
+                    "name": "Moms of Autistic Kids",
+                    "urlkey": "autism-moms"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NzEyMTE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "71211",
+                    "description": null,
+                    "name": "Autism Spectrum Disorders",
+                    "urlkey": "autism-spectrum-disorder"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE0NjY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21466",
+                    "description": null,
+                    "name": "Autism Spectrum Disorders",
+                    "urlkey": "autistic-spectrum-disorders"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MTUxNDM=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 118
+            },
+            "urlkey": "support-coaching"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NTQ2",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "546",
+            "color": "#78A38B",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "10579",
+              "description": "Meetup with other people interested in the internet and technology!",
+              "name": "Technology",
+              "urlkey": "technology"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/technology.jpg",
+            "name": "Technology",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU3MTg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "25718",
+                    "description": null,
+                    "name": "3D Animation",
+                    "urlkey": "3d-animation"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE0Mjk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21429",
+                    "description": null,
+                    "name": "3D Modeling",
+                    "urlkey": "3d-modeling"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTE0NTI4",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "114528",
+                    "description": null,
+                    "name": "3D Printing",
+                    "urlkey": "3d-printing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTIyOTM5",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "122939",
+                    "description": null,
+                    "name": "Agile Coaching",
+                    "urlkey": "agile-coaching"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDM4Mjcy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "438272",
+                    "description": null,
+                    "name": "Agile Leadership",
+                    "urlkey": "agile-leadership"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE1NDk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21549",
+                    "description": null,
+                    "name": "Agile Project Management",
+                    "urlkey": "agile-project-management"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzA5OTY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "30996",
+                    "description": null,
+                    "name": "Agile Testing",
+                    "urlkey": "agile-testing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDM4Mjgy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "438282",
+                    "description": null,
+                    "name": "Agile Transformation",
+                    "urlkey": "agile-transformation"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDU2",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "456",
+                    "description": "Meet other locals interested in artificial intelligence.",
+                    "name": "Artificial Intelligence",
+                    "urlkey": "ai"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjAzOTg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20398",
+                    "description": null,
+                    "name": "Amazon Web Services",
+                    "urlkey": "amazon-web-services"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTk3MjQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19724",
+                    "description": null,
+                    "name": "Android",
+                    "urlkey": "android"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjAzNDY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20346",
+                    "description": null,
+                    "name": "Android Development Operating Systems Technology",
+                    "urlkey": "android-developers"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUwODQwMQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1508401",
+                    "description": null,
+                    "name": "Angular",
+                    "urlkey": "angular2"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "OTM5NjEy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "939612",
+                    "description": null,
+                    "name": "Angular",
+                    "urlkey": "angularjs"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzkwMTI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "39012",
+                    "description": null,
+                    "name": "Arduino",
+                    "urlkey": "arduino"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjE4Nzg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "21878",
+                    "description": null,
+                    "name": "Atlassian",
+                    "urlkey": "atlassian"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjYwNjE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "26061",
+                    "description": null,
+                    "name": "Augmented Reality",
+                    "urlkey": "augmented-reality"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTgwNjI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18062",
+                    "description": "Meet other local people interested in Big Data!",
+                    "name": "Big Data",
+                    "urlkey": "big-data"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzgzNDEx",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "383411",
+                    "description": null,
+                    "name": "Big Data",
+                    "urlkey": "big-data-analytics"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA5NTk1",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "109595",
+                    "description": null,
+                    "name": "Biotechnology",
+                    "urlkey": "biotechnology"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MjU3MTg=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 192
+            },
+            "urlkey": "technology"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "Njg0",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "684",
+            "color": "#FFAD43",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "15046",
+              "description": "Meet other local outdoor enthusiasts like you!",
+              "name": "Outdoors",
+              "urlkey": "outdoors"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/travel-outdoor.jpg",
+            "name": "Travel & Outdoor",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU4OTI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15892",
+                    "description": "Meet other locals who love adventure, whether in nature, in the city, or wherever else!",
+                    "name": "Adventure",
+                    "urlkey": "adventure"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTgzMTc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18317",
+                    "description": null,
+                    "name": "Adventure Travel",
+                    "urlkey": "adventure-travel"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA5MzY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10936",
+                    "description": null,
+                    "name": "Natural Environment",
+                    "urlkey": "ambiente"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTg5ODg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "18988",
+                    "description": null,
+                    "name": "Backpacking",
+                    "urlkey": "backpacking"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTA1Njc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "10567",
+                    "description": "Meet others in your local area interested in going to the Beach.  Make friends while soaking up the sun!",
+                    "name": "Beach",
+                    "urlkey": "beach"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzY4MDM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "36803",
+                    "description": null,
+                    "name": "Bicycle Touring",
+                    "urlkey": "bicycle-touring"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjg4MDc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "28807",
+                    "description": null,
+                    "name": "Bicycling Beginners",
+                    "urlkey": "bicycling-beginners"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTc5",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "579",
+                    "description": "Meet other local Cyclists. Gather for weekend ride planning, gear talk, training tips, etc.!",
+                    "name": "Bicycling",
+                    "urlkey": "bike"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "ODU5NQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "8595",
+                    "description": "Meet other local Boating Enthusiasts.  Whether for sport or for recreation, join those who are interested in boats of all types, outboard motor repair, boating excursions, racing, etc. are welcome!",
+                    "name": "Boating",
+                    "urlkey": "boating"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mzc0",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "374",
+                    "description": "Meet with local campers to talk about gear, destinations and campfire recipes.",
+                    "name": "Camping",
+                    "urlkey": "camping"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzE4ODU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "31885",
+                    "description": null,
+                    "name": "Canoeing",
+                    "urlkey": "canoe"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDA3NjI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "40762",
+                    "description": null,
+                    "name": "Bicycling",
+                    "urlkey": "casual-bicycling"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTkwNTY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "19056",
+                    "description": null,
+                    "name": "Cruises",
+                    "urlkey": "cruising"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA0MjM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20423",
+                    "description": null,
+                    "name": "Day Trips",
+                    "urlkey": "day-trips"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjYyOQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "6629",
+                    "description": "Meet other local Dirt Biker Enthusiasts.  All fans, racers, etc. are welcome to join!",
+                    "name": "Dirt Biking",
+                    "urlkey": "dirtbike"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA5NTA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20950",
+                    "description": null,
+                    "name": "Diving",
+                    "urlkey": "diving"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDUzNTM=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "45353",
+                    "description": null,
+                    "name": "Dragon Boating",
+                    "urlkey": "dragon-boating"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDg2Njc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "48667",
+                    "description": null,
+                    "name": "Equestrian Camping",
+                    "urlkey": "equestrian-camping"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTc1MjI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "17522",
+                    "description": null,
+                    "name": "Exploring",
+                    "urlkey": "exploring"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjUxMjQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "25124",
+                    "description": null,
+                    "name": "Firearms Training",
+                    "urlkey": "firearms-training"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MTU4OTI=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 57
+            },
+            "urlkey": "travel-outdoor"
+          }
+        },
+        {
+          "__typename": "TopicCategoryEdge",
+          "cursor": "NDY3",
+          "node": {
+            "__typename": "TopicCategory",
+            "id": "467",
+            "color": "#97CAD1",
+            "defaultTopic": {
+              "__typename": "Topic",
+              "id": "16728",
+              "description": "Meet other local writers: gather to network, exchange ideas, and socialize with others who are interested in writing!",
+              "name": "Writing",
+              "urlkey": "writing"
+            },
+            "imageUrl": "https://secure.meetupstatic.com/next/images/category/writing.jpg",
+            "name": "Writing",
+            "topics": {
+              "__typename": "TopicsConnection",
+              "edges": [
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU3NDA=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "25740",
+                    "description": null,
+                    "name": "Aspiring Writers",
+                    "urlkey": "aspiring-writers"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTU4NDQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15844",
+                    "description": null,
+                    "name": "Authors",
+                    "urlkey": "authors"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjA4NDAy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "608402",
+                    "description": null,
+                    "name": "Book Writing",
+                    "urlkey": "book-writing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDEyMg==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "4122",
+                    "description": "Meet other local Children's Fiction Writers.  Gather and share ideas and advice with one another.",
+                    "name": "Children's Fiction Writing",
+                    "urlkey": "childrensfic"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTUzMjI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "15322",
+                    "description": null,
+                    "name": "Creative Writing",
+                    "urlkey": "creative-writing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzQ4Njg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "34868",
+                    "description": null,
+                    "name": "Critique Group",
+                    "urlkey": "critique-group"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjU2ODE=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "25681",
+                    "description": null,
+                    "name": "Digital Publishing",
+                    "urlkey": "digital-publishing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA2MzY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20636",
+                    "description": null,
+                    "name": "Fantasy Writing",
+                    "urlkey": "fantasy-writers"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzU4MDc=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "35807",
+                    "description": null,
+                    "name": "Fiction Writing",
+                    "urlkey": "fiction-writing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NDQ1ODQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "44584",
+                    "description": null,
+                    "name": "Journalism",
+                    "urlkey": "journalism"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjIxMjk=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22129",
+                    "description": null,
+                    "name": "Non-Fiction Writing",
+                    "urlkey": "non-fiction"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjA1NzY=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "20576",
+                    "description": null,
+                    "name": "Novel Writing",
+                    "urlkey": "novel-writing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjIy",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "222",
+                    "description": "Meet other local Poets or people who who love poetry to share your work or favorite poems, and have fun!",
+                    "name": "Poetry",
+                    "urlkey": "poetry"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjI2NTU=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "22655",
+                    "description": null,
+                    "name": "Poetry",
+                    "urlkey": "poetry-writing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MjIx",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "221",
+                    "description": "Meet other local Science Fiction Writers!  Gather to network, exchange ideas, and socialize with others who are interested in writing about Sci-fi, fantasty, and other types of speculative fiction!",
+                    "name": "Science Fiction Writing",
+                    "urlkey": "scifiwriting"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NTY3",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "567",
+                    "description": "Meet with local professional and aspiring screenwriters to discuss story ideas, plot lines, character development, and more.",
+                    "name": "Screenwriting",
+                    "urlkey": "screenwriters"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "Mjk4ODI=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "29882",
+                    "description": null,
+                    "name": "Self-Publishing",
+                    "urlkey": "self-publishing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "NjIxMzg=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "62138",
+                    "description": null,
+                    "name": "Short Stories",
+                    "urlkey": "short-stories"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MzU0MTQ=",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "35414",
+                    "description": null,
+                    "name": "Short Story Writing",
+                    "urlkey": "short-story-writing"
+                  }
+                },
+                {
+                  "__typename": "TopicEdge",
+                  "cursor": "MTMzOQ==",
+                  "node": {
+                    "__typename": "Topic",
+                    "id": "1339",
+                    "description": "Meet other local writers who experience writer's block.   Gather, brainstorm, support, and offer advice to one another on the best ways to cure this common difficulty.",
+                    "name": "Writer's Block",
+                    "urlkey": "writersblock"
+                  }
+                }
+              ],
+              "pageInfo": {
+                "__typename": "PageInfo",
+                "endCursor": "MjU3NDA=",
+                "hasNextPage": true,
+                "hasPreviousPage": false,
+                "startCursor": null
+              },
+              "totalCount": 22
+            },
+            "urlkey": "writing"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "endCursor": "NDY3",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "NTIx"
+      },
+      "totalCount": 20
+    }
+  }
+}
