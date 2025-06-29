@@ -1,1 +1,158 @@
 @import 'tailwindcss';
+@plugin '@headlessui/tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@theme {
+  --font-sans: 'Quicksand', sans-serif;
+  --color-bg: white;
+  --color-fg: black;
+
+  --color-avocado-100: oklch(0.99 0 0);
+  --color-avocado-200: oklch(0.98 0.04 113.22);
+  --color-avocado-300: oklch(0.94 0.11 115.03);
+  --color-avocado-400: oklch(0.92 0.19 114.08);
+  --color-avocado-500: oklch(0.84 0.18 200.33);
+  --color-avocado-600: oklch(0.53 0.12 118.34);
+
+  --primary-base: oklch(50% 0.4 260);
+
+  --base-blue: #2400ff;
+  --base-pink: #ec4c88;
+  --base-purple: #6c3679;
+  --base-red: #4c8fec;
+
+  --color-primary-100: color-mix(in oklch, var(--base-purple) 10%, white 100%);
+  --color-primary-200: color-mix(in oklch, var(--base-purple) 20%, white 100%);
+  --color-primary-300: color-mix(in oklch, var(--base-purple) 30%, white 100%);
+  --color-primary-400: color-mix(in oklch, var(--base-purple) 40%, white 100%);
+  --color-primary-500: color-mix(in oklch, var(--base-purple) 50%, white 100%);
+  --color-primary-600: color-mix(in oklch, var(--base-purple) 60%, white 100%);
+
+  --color-navbar-100: color-mix(in oklch, var(--base-red) 10%, var(--base-red) 50%);
+  --color-navbar-200: color-mix(in oklch, var(--base-red) 20%, var(--base-red) 50%);
+  --color-navbar-300: color-mix(in oklch, var(--base-red) 30%, var(--base-red) 50%);
+  --color-navbar-400: color-mix(in oklch, var(--base-red) 40%, var(--base-red) 50%);
+  --color-navbar-500: color-mix(in oklch, var(--base-red) 50%, var(--base-red) 50%);
+  --color-navbar-600: color-mix(in oklch, var(--base-red) 60%, var(--base-red) 50%);
+
+  --color-notice-100: color-mix(in oklch, #4c8fec 10%, white 100%);
+  --color-notice-200: color-mix(in oklch, #4c8fec 20%, white 100%);
+  --color-notice-300: color-mix(in oklch, #4c8fec 30%, white 100%);
+  --color-notice-400: color-mix(in oklch, #4c8fec 40%, white 100%);
+  --color-notice-500: color-mix(in oklch, #4c8fec 50%, white 100%);
+  --color-notice-600: color-mix(in oklch, #4c8fec 60%, white 100%);
+
+  --spacing-full-with-gap: calc(100% + 0.5rem);
+
+  --shadow-distance-max: 4px;
+  --shadow-distance: var(--shadow-distance-max);
+
+  --shadow-flat: calc(var(--shadow-distance) * 1) var(--shadow-distance) var(--tw-shadow-color);
+  --shadow-outline: var(--shadow-distance) var(--shadow-distance) 0 -1px black, var(--shadow-distance) var(--shadow-distance) white;
+
+  --shadow-xs: 1px 1px var(--tw-shadow-color);
+  --shadow-sm: 2px 2px var(--tw-shadow-color);
+  --shadow-md: 3px 3px var(--tw-shadow-color);
+  --shadow-lg: 4px 4px var(--tw-shadow-color);
+}
+
+@layer base {
+  :focus,
+  :focus-visible {
+    @apply outline-hidden;
+  }
+
+  :focus-visible {
+    @apply focus-visible:ring-1 focus-visible:ring-offset-1 focus-visible:ring-gray-500;
+  }
+}
+
+@layer components {
+  .title {
+    color: white;
+    text-shadow: 3px 3px 0 var(--tw-text-shadow-color);
+  }
+
+  .button,
+  .button-shape {
+    @apply border rounded;
+    @apply gap-2 inline-flex items-center px-2 py-1;
+
+    &.button-sm, &.button-md {
+      @apply shadow-flat;
+    }
+
+    &.button-sm {
+      --shadow-distance: 1px;
+    }
+
+    &.button-md {
+      --shadow-distance: 2px;
+    }
+  }
+
+  .button {
+    @apply bg-white shadow-lg transition-all transition-discrete;
+
+    &:where(.menu-open *) {
+      --shadow-distance: 2px;
+
+      translate: 0 1px;
+
+      @apply shadow-sm;
+    }
+
+    &:where(:active) {
+      --shadow-distance: 1px;
+
+      translate: 0 3px;
+
+      @apply shadow-xs;
+    }
+  }
+
+  .button-black {
+    @apply border-black shadow-black hover:bg-zinc-100;
+  }
+
+  .button-blue {
+    @apply border-primary-500 shadow-primary-500 hover:bg-primary-100;
+  }
+
+  .button-notice {
+    @apply border-notice-500 shadow-notice-500;
+  }
+
+  .button-zinc {
+    @apply border-zinc-500 shadow-zinc-500 hover:bg-zinc-100;
+  }
+
+  .card,
+  .card-shape {
+    @apply border rounded;
+  }
+
+  .card {
+    @apply shadow-flat;
+  }
+
+  .card-black {
+    @apply border-black shadow-black;
+  }
+
+  .card-blue {
+    @apply border-primary-500 shadow-primary-500;
+  }
+
+  .card-navbar {
+    @apply border-navbar-500 shadow-navbar-500;
+  }
+
+  .card-notice {
+    @apply border-notice-500 shadow-notice-500;
+  }
+
+  .card-zinc {
+    @apply border-zinc-500 shadow-zinc-500;
+  }
+}
