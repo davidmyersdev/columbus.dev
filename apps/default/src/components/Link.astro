@@ -1,0 +1,14 @@
+---
+const { external, href, ...attrs } = Astro.props
+
+const isExternal = external === true || !/^(?:\/|\.)/.test(href)
+const hostname = new URL(href, import.meta.url).hostname
+---
+
+<a
+  data-hostname={hostname}
+  href={href}
+  rel={isExternal ? 'nofollow noopener' : undefined}
+  target={isExternal ? '_blank' : undefined}
+  {...attrs}
+><slot /></a>

@@ -1,16 +1,10 @@
 ---
-import '../styles/global.css'
+import Link from '../components/Link.astro'
+import Survey from '../components/Survey.astro'
+import DefaultLayout from '../layouts/Default.astro'
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>columbus.dev</title>
-  </head>
-  <body>
-    <h1>columbus.dev</h1>
-  </body>
-</html>
+<DefaultLayout>
+  <Survey />
+  <p>We are building a hub to help you discover and connect with other developers in the Columbus, Ohio area. Join our <Link href="https://discord.gg/kS9CkfYKpN">Discord</Link> to stay in touch.</p>
+</DefaultLayout>
