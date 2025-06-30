@@ -1,0 +1,15 @@
+{
+  "name": "columbus-dev-ui",
+  "compatibility_date": "2025-06-29",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    {
+      "pattern": "columbus.dev",
+      "custom_domain": true
+    }
+  ],
+  "workers_dev": false
+}

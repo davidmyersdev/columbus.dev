@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "deploy": "wrangler deploy",
     "preview": "astro preview",
     "sync": "astro sync"
   },
@@ -18,6 +19,7 @@
   },
   "devDependencies": {
     "@astrojs/vue": "^5.1.0",
+    "@cloudflare/vite-plugin": "^1.7.5",
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.10",
     "@types/hast": "^3.0.4",
@@ -30,6 +32,7 @@
     "remark-parse": "^11.0.0",
     "remark-rehype": "^11.1.2",
     "unified": "^11.0.5",
-    "unist-util-visit": "^5.0.0"
+    "unist-util-visit": "^5.0.0",
+    "wrangler": "^4.22.0"
   }
 }
